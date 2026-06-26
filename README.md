@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-secret-de-ton-sourire/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Le Secret De Ton Sourire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-secret-de-ton-sourire/) |
+| **Get License** | [Obtain a Music License for Le Secret De Ton Sourire](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-secret-de-ton-sourire/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton parfum qui flotte dans l'air de la nuit
+> Un seul regard et tout le reste s'enfuit
+> C'est le secret de ton sourire, mon désir
+> Viens tout près de moi, laisse-moi t'envahir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
